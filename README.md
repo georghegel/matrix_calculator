@@ -1,2 +1,3 @@
-# matrix_calculator
-This project is a library, written on C++, for matrix operations such as sum/sub, multiplication, determinant, inverse, SVD etc.
+# Matrix Calculator
+C++ library for Matrix operations.
+Operations include: arithmetic (sum/sub, matrix multiply), transpose, determinant, inverse, adjuagte matrix, Singular Value Decomposition.
